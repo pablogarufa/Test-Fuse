@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test Fuse</string>
+    <string name="fragment_main_hint">Company name...</string>
+    <string name="btn_submint">Submit</string>
+    <string name="btn_clear">Clear</string>
+    <string name="error_edittext_length">Please enter a company name with more than a character</string>
+</resources>
